@@ -8,10 +8,12 @@ programs for start project
             mysql version:8
             java:jdk-11 
             maven
+            
 database 
             username:root
             password:root.
             databaseName:testdb;
+            
 commands for run project
 
     in terminal go in folder project
